@@ -20,7 +20,7 @@
     <properties>
         <mapdb.version>3.0.7</mapdb.version>
         <eclipse-collections.version>9.2.0</eclipse-collections.version>
-        <lombok.version>1.18.12</lombok.version>
+        <lombok.version>LATEST</lombok.version>
     </properties>
 
     <dependencies>
